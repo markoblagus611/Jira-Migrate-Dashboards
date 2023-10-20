@@ -16,8 +16,8 @@ This script is designed to migrate dashboards with the 'custom charts' plugin fr
 Before running the script, ensure you have the following:
 
 - A compatible version of Jira Data Center.
-- Required libraries or packages installed (provide details).
-- Proper authentication credentials (if needed).
+- Required libraries or packages installed (pip install requests).
+- Proper authentication credentials.
 
 ### Example
 To use this script, follow these steps:
